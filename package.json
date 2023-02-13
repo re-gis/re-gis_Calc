@@ -1,7 +1,7 @@
 {
   "name": "regis_calc",
-  "version": "1.0.0",
-  "description": "Express calc routes",
+  "version": "1.0.1",
+  "description": "Express Calc Package",
   "main": "app.js",
   "scripts": {
     "dev": "nodemon app.js"
